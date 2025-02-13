@@ -7,6 +7,7 @@
   * MSN price stocks.
   * PNJ price stocks.
   * VIC price stocks.
+
 **Source:** FINPROS - INVESTMENT JOINT STOCK COMPANY.
 
 **Key features:**
@@ -27,6 +28,7 @@
       * CNN.
     * Hybrid Modeling:
       * XGBoost + Random Forests + Linear Regression.
+      * CNN + XGBoost + Random Forests.
   * Evaluation.
     *  Cross Validation.
     *  R^2, MAE, MSE, Time Consuming, etc.
